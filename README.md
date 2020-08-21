@@ -45,8 +45,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tnaswin&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tnaswin&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tnaswin&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tnaswin&layout=compact" />
 </p>
 
 
