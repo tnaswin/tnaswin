@@ -61,9 +61,7 @@
 </p>
 
 
-<p>
 ![Profile views](https://gpvc.arturio.dev/tnaswin)
-</p>
 
 <!--
 ### Hi there 👋
