@@ -28,7 +28,7 @@
 - ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/DB-Oracle_DB-informational?style=for-the-badge&logo=oracle&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/DBMongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2E86C1)
 
 - ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=2E86C1)
