@@ -23,6 +23,7 @@
 
 - ![](https://img.shields.io/badge/Py-Django-informational?style=for-the-badge&logo=django&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Py-Flask-informational?style=for-the-badge&logo=Flask&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Py-FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Js-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2E86C1)
 
 - ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2E86C1)
