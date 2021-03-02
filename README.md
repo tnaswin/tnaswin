@@ -4,8 +4,9 @@
 
 - Experienced Software professional with a demonstrated history of working in the Information Technology and Services industry in diverse domains like Event Driven Networking, Telephony and Web Development using modern and robust technologies.
 - Good with project planning, project module management and meeting tough deadlines. Knowledge of cloud platforms for developing and deploying applications in cloud.
-- Experience in self managing the whole project from the requirement to deployment. Familiarity with tools for collaborative development.
+- Experienced in self managing the whole project from the requirement to deployment. Familiarity with tools for collaborative development.
 - Also interested in Machine Learning/Data Science, Security Systems, and Block-Chain technology.
+- I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into my work and could help me deliver the best.
 
 
 ## 🔧 Technologies & Tools
